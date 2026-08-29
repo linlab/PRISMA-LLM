@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use PRISMA-LLM, please cite the manuscript and this repository release."
+title: "PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews"
+type: software
+authors:
+  - family-names: Zabaleta
+    given-names: Miguel
+  - family-names: Lin
+    given-names: Baihan
+repository-code: "https://github.com/linlab/PRISMA-LLM"
+version: "0.1.0"
+license: "Apache-2.0"
