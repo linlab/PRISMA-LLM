@@ -1,5 +1,7 @@
 # PRISMA-LLM
 
+[Paper on arXiv](https://arxiv.org/abs/2609.11559)
+
 PRISMA-LLM adds reporting guidance for systematic reviews that use LLMs or
 AI-enabled software in evidence-processing tasks. It supplements PRISMA 2020
 with implementation, evaluation, limitation and reproducibility requirements.
@@ -32,10 +34,9 @@ Version 0.1.0 is the initial release. Formal consensus development,
 usability testing, prospective validation and review by the PRISMA Executive
 remain future work.
 
-## Citation and feedback
+## Feedback
 
-Citation metadata are in [`CITATION.cff`](CITATION.cff) and will be updated with
-the preprint identifier after posting. Please open a GitHub issue to suggest a
+Please open a GitHub issue to suggest a
 missing item, clarify applicability or propose a new workflow type.
 
 ## License
@@ -44,3 +45,18 @@ The analysis code is licensed under the
 [Apache License 2.0](LICENSE). The checklist, framework materials and
 documentation are licensed under
 [Creative Commons Attribution 4.0 International](LICENSE-CONTENT).
+
+## Citation
+
+If you use PRISMA-LLM, please cite:
+
+```bibtex
+@article{zabaleta2026prismallm,
+  title = {{PRISMA-LLM}: An Empirical Reporting Framework for {AI}-Assisted Systematic Reviews},
+  author = {Zabaleta, Miguel and Lin, Baihan},
+  journal = {arXiv preprint arXiv:2609.11559},
+  year = {2026},
+  doi = {10.48550/arXiv.2609.11559},
+  url = {https://arxiv.org/abs/2609.11559}
+}
+```
